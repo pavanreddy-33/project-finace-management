@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "date": "2025-10-01",
+    "description": "Grocery Shopping",
+    "category": "Food",
+    "type": "Expense",
+    "amount": 45.6
+  },
+  {
+    "id": 2,
+    "date": "2025-10-05",
+    "description": "Monthly Salary",
+    "category": "Salary",
+    "type": "Credit",
+    "amount": 3000.0
+  },
+  {
+    "id": 3,
+    "date": "2025-10-06",
+    "description": "Electricity Bill",
+    "category": "Bills",
+    "type": "Expense",
+    "amount": 90.0
+  },
+  {
+    "id": 4,
+    "date": "2025-10-08",
+    "description": "Bus Fare",
+    "category": "Transport",
+    "type": "Expense",
+    "amount": 12.5
+  },
+  {
+    "id": 5,
+    "date": "2025-09-11",
+    "description": "Bus Fare",
+    "category": "Transport",
+    "type": "Expense",
+    "amount": 15.0
+  },
+  {
+    "id": 6,
+    "date": "2025-09-12",
+    "description": "Restaurant Dinner",
+    "category": "Food",
+    "type": "Expense",
+    "amount": 65.75
+  },
+  {
+    "id": 7,
+    "date": "2025-09-15",
+    "description": "Mobile Phone Bill",
+    "category": "Bills",
+    "type": "Expense",
+    "amount": 55.0
+  },
+  {
+    "id": 8,
+    "date": "2025-09-17",
+    "description": "Freelance Client Payment",
+    "category": "Salary",
+    "type": "Credit",
+    "amount": 750.0
+  },
+  {
+    "id": 9,
+    "date": "2025-09-18",
+    "description": "New Clothes",
+    "category": "Shopping",
+    "type": "Expense",
+    "amount": 185.3
+  },
+  {
+    "id": 10,
+    "date": "2025-09-20",
+    "description": "Rideshare Service",
+    "category": "Transport",
+    "type": "Expense",
+    "amount": 22.8
+  },
+  {
+    "id": 11,
+    "date": "2025-09-23",
+    "description": "Dividend Payout",
+    "category": "Investment",
+    "type": "Credit",
+    "amount": 85.5
+  },
+  {
+    "id": 12,
+    "date": "2025-09-25",
+    "description": "Pharmacy Visit",
+    "category": "Health",
+    "type": "Expense",
+    "amount": 45.1
+  },
+  {
+    "id": 13,
+    "date": "2025-09-28",
+    "description": "Gym Membership Fee",
+    "category": "Health",
+    "type": "Expense",
+    "amount": 75.0
+  },
+  {
+    "id": 14,
+    "date": "2025-09-30",
+    "description": "Internet & Cable",
+    "category": "Bills",
+    "type": "Expense",
+    "amount": 80.0
+  },
+  {
+    "id": 15,
+    "date": "2025-10-01",
+    "description": "Takeout Lunch",
+    "category": "Food",
+    "type": "Expense",
+    "amount": 35.99
+  },
+  {
+    "id": 16,
+    "date": "2025-10-04",
+    "description": "Monthly Apartment Rent",
+    "category": "Rent",
+    "type": "Expense",
+    "amount": 1250.0
+  },
+  {
+    "id": 17,
+    "date": "2025-10-05",
+    "description": "Monthly Salary Deposit",
+    "category": "Salary",
+    "type": "Credit",
+    "amount": 4200.0
+  },
+  {
+    "id": 18,
+    "date": "2025-10-07",
+    "description": "Gasoline Refill",
+    "category": "Transport",
+    "type": "Expense",
+    "amount": 55.4
+  },
+  {
+    "id": 19,
+    "date": "2025-10-08",
+    "description": "Streaming Service",
+    "category": "Entertainment",
+    "type": "Expense",
+    "amount": 15.99
+  },
+  {
+    "id": 20,
+    "date": "2025-10-10",
+    "description": "Grocery Shopping",
+    "category": "Food",
+    "type": "Expense",
+    "amount": 105.2
+  },
+  {
+    "id": 21,
+    "date": "2025-10-12",
+    "description": "Stock Sale Profit",
+    "category": "Investment",
+    "type": "Credit",
+    "amount": 480.0
+  },
+  {
+    "id": 22,
+    "date": "2025-10-14",
+    "description": "Video Game Purchase",
+    "category": "Entertainment",
+    "type": "Expense",
+    "amount": 59.99
+  },
+  {
+    "id": 23,
+    "date": "2025-10-16",
+    "description": "Doctor's Co-pay",
+    "category": "Health",
+    "type": "Expense",
+    "amount": 30.0
+  },
+  {
+    "id": 24,
+    "date": "2025-10-18",
+    "description": "Home Decor",
+    "category": "Shopping",
+    "type": "Expense",
+    "amount": 95.0
+  },
+  {
+    "id": 25,
+    "date": "2025-10-21",
+    "description": "Coffee Shop",
+    "category": "Food",
+    "type": "Expense",
+    "amount": 8.5
+  },
+  {
+    "id": 26,
+    "date": "2025-10-24",
+    "description": "Insurance Reimbursement",
+    "category": "Refund",
+    "type": "Credit",
+    "amount": 120.0
+  },
+  {
+    "id": 27,
+    "date": "2025-10-26",
+    "description": "Train Ticket",
+    "category": "Transport",
+    "type": "Expense",
+    "amount": 45.0
+  },
+  {
+    "id": 28,
+    "date": "2025-10-29",
+    "description": "Water Bill",
+    "category": "Bills",
+    "type": "Expense",
+    "amount": 45.0
+  },
+  {
+    "id": 29,
+    "date": "2025-10-31",
+    "description": "Restaurant Dinner",
+    "category": "Food",
+    "type": "Expense",
+    "amount": 130.6
+  },
+  {
+    "id": 30,
+    "date": "2025-11-01",
+    "description": "Monthly Apartment Rent",
+    "category": "Rent",
+    "type": "Expense",
+    "amount": 1250.0
+  },
+  {
+    "id": 31,
+    "date": "2025-11-03",
+    "description": "Grocery Shopping",
+    "category": "Food",
+    "type": "Expense",
+    "amount": 72.15
+  },
+  {
+    "id": 32,
+    "date": "2025-11-05",
+    "description": "Monthly Salary Deposit",
+    "category": "Salary",
+    "type": "Credit",
+    "amount": 4200.0
+  },
+  {
+    "id": 33,
+    "date": "2025-11-07",
+    "description": "Electricity Bill",
+    "category": "Bills",
+    "type": "Expense",
+    "amount": 98.45
+  },
+  {
+    "id": 34,
+    "date": "2025-11-09",
+    "description": "New Headphones",
+    "category": "Shopping",
+    "type": "Expense",
+    "amount": 299.0
+  },
+  {
+    "id": 35,
+    "date": "2025-11-10",
+    "description": "Bus Fare",
+    "category": "Transport",
+    "type": "Expense",
+    "amount": 10.0
+  },
+  {
+    "id": 36,
+    "date": "2025-11-12",
+    "description": "Rental Income",
+    "category": "Investment",
+    "type": "Credit",
+    "amount": 150.0
+  },
+  {
+    "id": 37,
+    "date": "2025-11-14",
+    "description": "Concert Tickets",
+    "category": "Entertainment",
+    "type": "Expense",
+    "amount": 140.0
+  },
+  {
+    "id": 38,
+    "date": "2025-11-16",
+    "description": "Takeout Lunch",
+    "category": "Food",
+    "type": "Expense",
+    "amount": 28.5
+  },
+  {
+    "id": 39,
+    "date": "2025-11-17",
+    "description": "Mobile Phone Bill",
+    "category": "Bills",
+    "type": "Expense",
+    "amount": 55.0
+  },
+  {
+    "id": 40,
+    "date": "2025-11-19",
+    "description": "Side Gig Income",
+    "category": "Salary",
+    "type": "Credit",
+    "amount": 350.0
+  },
+  {
+    "id": 41,
+    "date": "2025-11-20",
+    "description": "Gasoline Refill",
+    "category": "Transport",
+    "type": "Expense",
+    "amount": 60.1
+  },
+  {
+    "id": 42,
+    "date": "2025-11-21",
+    "description": "Pharmacy Visit",
+    "category": "Health",
+    "type": "Expense",
+    "amount": 22.75
+  },
+  {
+    "id": 43,
+    "date": "2025-11-22",
+    "description": "Product Return Refund",
+    "category": "Refund",
+    "type": "Credit",
+    "amount": 50.0
+  },
+  {
+    "id": 44,
+    "date": "2025-11-23",
+    "description": "Grocery Shopping",
+    "category": "Food",
+    "type": "Expense",
+    "amount": 95.3
+  },
+  {
+    "id": 45,
+    "date": "2025-11-24",
+    "description": "Movie Tickets",
+    "category": "Entertainment",
+    "type": "Expense",
+    "amount": 40.0
+  },
+  {
+    "id": 46,
+    "date": "2025-11-25",
+    "description": "Internet & Cable",
+    "category": "Bills",
+    "type": "Expense",
+    "amount": 80.0
+  },
+  {
+    "id": 47,
+    "date": "2025-11-26",
+    "description": "Rideshare Service",
+    "category": "Transport",
+    "type": "Expense",
+    "amount": 32.5
+  },
+  {
+    "id": 48,
+    "date": "2025-11-27",
+    "description": "Restaurant Dinner",
+    "category": "Food",
+    "type": "Expense",
+    "amount": 78.9
+  },
+  {
+    "id": 49,
+    "date": "2025-11-28",
+    "description": "New Book Purchase",
+    "category": "Shopping",
+    "type": "Expense",
+    "amount": 25.0
+  },
+  {
+    "id": 50,
+    "date": "2025-11-28",
+    "description": "Coffee Shop",
+    "category": "Food",
+    "type": "Expense",
+    "amount": 6.75
+  }
+]
